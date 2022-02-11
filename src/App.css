@@ -3,6 +3,17 @@
   box-sizing: border-box;
 }
 
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  padding-top: 20px;
+  margin-top: 0;
+}
+
 body {
   background-image: url(./crowdbotics.jpg),
     radial-gradient(circle farthest-corner at 50% 50%, #12054a, #0f0636);
@@ -14,8 +25,14 @@ body {
   min-height: 100vh;
 }
 
+.mainPage {
+  position: relative;
+  min-height: 100vh;
+  padding-bottom: 60px;
+}
+
 .buttons {
-  margin-bottom: 25px;
+  margin-bottom: 50px;
 }
 
 button {

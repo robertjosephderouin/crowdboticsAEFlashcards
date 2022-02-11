@@ -18,7 +18,7 @@ class App extends React.Component {
     const computedIndex =
       (this.state.currentCard + cards.length - 1) % cards.length;
     return (
-      <div>
+      <div className="mainPage">
         <h1>Crowdbotics AE Vocabulary Flash Cards</h1>
         <div className="content">
           <Card
