@@ -117,11 +117,11 @@ export default [
   },
   {
     front: "Dapps",
-    back: "A decentralized application (dapp) is an application built on a decentralized network that combines a smart contract and a frontend user interface. On Ethereum, smart contracts are accessible and transparent – like open APIs – so your dapp can even include a smart contract that someone else has written.",
+    back: "A decentralized application (dapp) is an application built on a decentralized network that combines a smart contract and a frontend user interface. On Ethereum, smart contracts are accessible and transparent – like open APIs – so your dapp can even include a smart contract that someone else has written. If we are building something with Web 3.0 on the blockchain, it will be referred to as a Dapp.",
   },
   {
     front: "DeFi",
-    back: "DeFi (pronounced dee-fye) is short for decentralized finance. It's an umbrella term for the part of the crypto universe that is geared toward building a new, internet-native financial system, using blockchains to replace traditional intermediaries and trust mechanisms. A lot of our customers are developing DeFi projects with us.",
+    back: "DeFi (pronounced dee-fye) is short for decentralized finance. It's an umbrella term for the part of the crypto universe that is geared toward building a new, internet-native financial system, using blockchains to replace traditional intermediaries and trust mechanisms. A lot of our customers are developing DeFi tools with us.",
   },
   {
     front: "Ether",
@@ -133,6 +133,114 @@ export default [
   },
   {
     front: "GWEI",
-    back: "Gwei is a term in the cryptocurrency community for a very small amount of the Ethereum currency and is used to pay fees for transactions on the Ethereum network. The Ethereum token is called Ether and is denoted by ETH. One Gwei is the same as 0.000000001 ETH.",
+    back: "It's the baseline transaction cost of doing an action on the blockchain. It's the level at which you pay gas on. It is on all networks to show how much each transaction will cost. It varies on supply & demand. It's smart to time these out to ensure that your clients don't get destroyed by fees.",
+  },
+  {
+    front: "MetaMask v Wallet Connect",
+    back: "MetaMask is any connected wallet that exists (i.e. polygon wallet, treasure wallet, thousands of others) for the purpose of holding your money. Wallet Connect is simply a tool to connect gaps to these various wallets. We just finished a module for wallet connect that will allow us to connect any of our Dapps to any wallet.",
+  },
+  {
+    front: "Metaverse v. Web 3.0",
+    back: "Web 3.0 is a generic term for the next generation of the internet (living on the blockchain, living in a decentralized world without ownership, you'd sign in with a crypto wallet rather than username/password, etc.). Metaverse is also Web 3.0, but it focuses more on the high-level interaction/gaming portion of it. (i.e. Sandbox).",
+  },
+   {
+    front: "Mint",
+    back: "The creation of a token, coin, NFT. It is the process at which it is generated.",
+  },
+   {
+    front: "NFT",
+    back: "Non-Fungible Token. A representation of something (not necessarily a coin or token), it is unique and can not be copied. NFTs can be pictures, music, gifs, and soon videos.",
+  },
+   {
+    front: "Opensea",
+    back: "This is where NFTs can be viewed, traded, offered, bought, and sold in your wallet. You can also create NFTs in Opensea.",
+  },
+   {
+    front: "Play to Earn",
+    back: "The gaming aspect, where you play a game to earn crypto. Axie infinity is the biggest of big as far as play to earn companies.",
+  },
+   {
+    front: "Proof of Work vs. Proof of Stake",
+    back: "Proof of Work is collateralized in power, energy, internet speed, data storage, etc. Proof of stake is collateralized in some sort of an asset (i.e. money), as opposed to power.",
+  },
+   {
+    front: "Rug Pull",
+    back: "A word for extreme theft. We have started some projects here that are specifically wanting us to build rug pull apps, where they can collect money, launch, and then pull the rug out from everybody and leave. It is extremely difficult to catch those individuals.",
+  },
+  {
+    front: "Seed Phrase",
+    back: "The indentifier to your crypto wallet, not the address, but the way you gain access. A seed phrase is normally a series of typically 10-15 characters. If you lose your seed phrase, you don't have a way to get back into your wallet.",
+  },
+   {
+    front: "Smart Contract",
+    back: "A smart contract is required to program NFTs, Dapps, Coins, etc. A smart contract lays out what the programs will do - where the they go, how they interact, etc. This is extremely vital in the development world. Most projects in the Web 3.0 world can not exist without a smart contract. A smart contract itself isn't expensive - it's the integration & complexities that are.",
+  },
+   {
+    front: "Stable Coins - Backed v. Algorithmic",
+    back: "A stable coin is a coin that is pegged to something else (i.e. USD, gold, etc.) - USD is always equal to one US dollar. UST are stable coins that are backed by the USD (meaning, that if you buy one, they buy a USD and your UST is equivalent to that). Algorithmic value is based on a series of buys and sells that happen in the background.",
+  },
+   {
+    front: "Staking",
+    back: "Putting one of your assets on the blockchain in order to support or earn. If you are trying to help a platform succeed, you can stake collateral and later be rewarded.",
+  },
+   {
+    front: "Tokens v. Utility Tokens vs. Coins",
+    back: "Utility token is a token or NFT that performs an actual function. It is a program that earns or takes care of something. A regular token has zero utility. It is created from nothing and there is a limited supply. Their value is only based on supply & demand. Coins are a more advanced version of the token.",
+  },
+   {
+    front: "Whitelist",
+    back: "Also referred to as WL, refers to a list you can be put on to purchase projects before everyone else. It is similar to an ICO, ITO, or IPO in the investing world. People find whitelists and become rich by staying on top of research in Discord.",
+  },
+   {
+    front: "White or Lite Paper",
+    back: "A way that a project will present what it does. Typically 50-100 pages long. Basically a very advanced business plan for a project.",
+  },
+   {
+    front: "Medium",
+    back: "Similar to a blog or newsletter, where updates are posted about projects by the creators. Medium articles are a great way to learn about what a project is, what it is hoping to accomplish, what is coming, etc.",
+  },
+   {
+    front: "ITO or ICO",
+    back: "Initial Token Offering, Initial Coin Offering, when a token or coin launches on the blockchain so that everyone can start buying them.",
+  },
+   {
+    front: "Pools vs. Farms",
+    back: "A farm is a proof of stake. A pool is where people put all of their money together to collect on a utility token or investment into platforms.",
+  },
+   {
+    front: "KYC",
+    back: "Know Your Customer.",
+  },
+   {
+    front: "Onramp v. Offramp",
+    back: "The process of bringing money onto the blockchain and removing it from the blockchain and turning into fiat (regular money)",
+  },
+   {
+    front: "Satoshi Nakamoto",
+    back: "The supposed creator of Bitcoin. Created it after the 2008 financial crash to create an inflation-proof worldwide currency.",
+  },
+   {
+    front: "Dex",
+    back: "Decentralized Exchange. Basically a place at which you can view the values, trade coins/tokens, see the various candlesticks, etc.",
+  },
+   {
+    front: "Coinbase",
+    back: "The largest cryto transaction and blockchain transaction company.",
+  },
+   {
+    front: "TXN",
+    back: "Transaction on the blockchain.",
+  },
+   {
+    front: "FDV v. Market Cap",
+    back: "Fully Diluted Value v. Market Cap. If you sell every single token in its existence at its current price, FDV is the price. Market Cap is the amount of tokens/coins that exist so far, based on what is being transacted.",
+  },
+   {
+    front: "Discord v. Telegram v. Twitter in the Cryptoverse",
+    back: "Communicative platforms for Web 3.0",
+  },
+   {
+    front: "IOT",
+    back: "IoT enables devices across the Internet to send data to private blockchain networks to create tamper-resistant records of shared transactions",
   },
 ];
