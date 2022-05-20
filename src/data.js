@@ -131,7 +131,7 @@ export default [
     front: "Gas",
     back: "Gas is the fee you pay in order to perform a transaction. On proof of stake networks, such as avalanche, that fee is based on supply & demand only and the fee that you pay is destroyed. Proof of Work networks, such as Ether, have fees that you pay to the hardware miners to process the transaction for you on their nodes.",
   },
-   {
+  {
     front: "GWEI",
     back: "Gwei is a term in the cryptocurrency community for a very small amount of the Ethereum currency and is used to pay fees for transactions on the Ethereum network. The Ethereum token is called Ether and is denoted by ETH. One Gwei is the same as 0.000000001 ETH.",
   },
