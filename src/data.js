@@ -99,4 +99,40 @@ export default [
     front: "Django",
     back: "Django is a server framework of Python.  Python is a back end language.",
   },
+   {
+    front: "Airdrop",
+    back: "An airdrop is a marketing stunt that involves sending free coins, NFTs or tokens to wallet addresses in order to promote awareness of a new virtual currency.",
+  },
+  {
+    front: "Blockchain",
+    back: "A blockchain is a digital ledger of transactions maintained by a network of computers in a way that makes it difficult to hack or alter. The technology offers a secure way for individuals to deal directly with each other, without an intermediary like a government, bank or other third party. Etherium, ether, and Polygon are examples of blockchains. The network at which transactions live in the decentralized world.",
+  },
+  {
+    front: "Burning",
+    back: "Burning crypto means permanently removing a number of tokens from circulation. This is typically done by transferring the tokens in question to a burn address, i.e. a wallet from which they cannot ever be retrieved. This is often described as destroying tokens. A project burns its tokens to reduce the overall supply. Countries will do this with their currency to prevent inflation.",
+  },
+  {
+    front: "Cross Chain",
+    back: "A cross-chain bridge enables an exchange of information, cryptocurrency or NFTs from one blockchain network to another. It enables the flow of data and tokens across what would otherwise be siloed sets of data on different blockchains. This is very difficult to do and very few projects do this.",
+  },
+  {
+    front: "Dapps",
+    back: "A decentralized application (dapp) is an application built on a decentralized network that combines a smart contract and a frontend user interface. On Ethereum, smart contracts are accessible and transparent – like open APIs – so your dapp can even include a smart contract that someone else has written.",
+  },
+  {
+    front: "DeFi",
+    back: "DeFi (pronounced dee-fye) is short for decentralized finance. It's an umbrella term for the part of the crypto universe that is geared toward building a new, internet-native financial system, using blockchains to replace traditional intermediaries and trust mechanisms. A lot of our customers are developing DeFi projects with us.",
+  },
+  {
+    front: "Ether",
+    back: "Ether was the first real blockchain that was launched. Bitcoin is traded on Ether. Ether is the fuel used to power the network, whereas Ethereum refers to the network transactional token that facilitates operations on the Ethereum network. All of the programs and services linked with the Ethereum network require computing power (and that computing power is not free). Ether is a form of payment for network participants to execute their requested operations on the network.",
+  },
+  {
+    front: "Gas",
+    back: "Gas is the fee you pay in order to perform a transaction. On proof of stake networks, such as avalanche, that fee is based on supply & demand only and the fee that you pay is destroyed. Proof of Work networks, such as Ether, have fees that you pay to the hardware miners to process the transaction for you on their nodes.",
+  },
+   {
+    front: "GWEI",
+    back: "Gwei is a term in the cryptocurrency community for a very small amount of the Ethereum currency and is used to pay fees for transactions on the Ethereum network. The Ethereum token is called Ether and is denoted by ETH. One Gwei is the same as 0.000000001 ETH.",
+  },
 ];
