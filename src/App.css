@@ -15,8 +15,7 @@ h1 {
 }
 
 body {
-  background-image: url(./crowdbotics.jpg),
-    radial-gradient(circle farthest-corner at 50% 50%, #12054a, #0f0636);
+  background-color: #0b274e;
   background-size: cover;
   background-repeat: no-repeat;
   color: white;
@@ -46,8 +45,8 @@ button {
   justify-content: center;
   align-items: center;
   border-radius: 50px;
-  background-color: #ea5f57;
-  color: #fff;
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
   font-size: 15px;
   line-height: 1.5em;
   font-weight: 600;

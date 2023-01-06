@@ -19,7 +19,7 @@ class App extends React.Component {
       (this.state.currentCard + cards.length - 1) % cards.length;
     return (
       <div className="mainPage">
-        <h1>Crowdbotics AE Vocabulary Flash Cards</h1>
+        <h1>Kardin Vocabulary Flash Cards</h1>
         <div className="content">
           <Card
             content={
@@ -70,7 +70,7 @@ class App extends React.Component {
           </div>
         </div>
         <footer>
-          Message AE Robert on Slack with any questions or if you want to add or
+          Message Robert DeRouin on Teams with any questions or if you want to add or
           modify a flash card!
         </footer>
       </div>
