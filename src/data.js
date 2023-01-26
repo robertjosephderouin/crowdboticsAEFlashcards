@@ -23,16 +23,4 @@ export default [
     front:"CAM Reconciliation",
     back:"CAM reconciliation is the process landlords use to evaluate whether the amount a tenant paid in estimated escrow charges was correct. This sometimes results in a landlord reimbursing a tenant for overcharges, but more often the tenant has to make up the difference."
   },
-  {
-    front:"",
-    back:""
-  },
-  {
-    front:"",
-    back:""
-  },
-  {
-    front:"",
-    back:""
-  },
 ];
